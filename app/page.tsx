@@ -17,7 +17,7 @@ export default function Home() {
           <p className="eyebrow">Hai, saya</p>
           <h1>Erwin Setiawan</h1>
           <p className="lead">
-            Saya adalah mahasiswa yang tertarik pada teknologi, desain, dan
+            Saya adalah karyawan yang tertarik pada teknologi, desain, dan
             pengembangan produk digital yang bermanfaat untuk orang banyak.
           </p>
 
@@ -43,7 +43,7 @@ export default function Home() {
           </div>
           <div className="meta-row">
             <span>Status</span>
-            <strong>Mahasiswa aktif</strong>
+            <strong>Karyawan</strong>
           </div>
         </div>
       </section>
